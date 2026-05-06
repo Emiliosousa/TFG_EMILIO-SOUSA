@@ -1,0 +1,1642 @@
+{
+  "2005": [
+    {
+      "team": "FC Barcelona",
+      "value": "€327.50m"
+    },
+    {
+      "team": "Real Madrid",
+      "value": "€281.60m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€213.55m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€134.15m"
+    },
+    {
+      "team": "Deportivo de La Coruña",
+      "value": "€133.80m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€96.85m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€85.95m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€82.00m"
+    },
+    {
+      "team": "Real Zaragoza",
+      "value": "€66.55m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€58.98m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€53.83m"
+    },
+    {
+      "team": "Celta de Vigo",
+      "value": "€48.30m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€47.23m"
+    },
+    {
+      "team": "RCD Mallorca",
+      "value": "€42.15m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€40.70m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€36.38m"
+    },
+    {
+      "team": "Deportivo Alavés",
+      "value": "€34.83m"
+    },
+    {
+      "team": "Racing Santander",
+      "value": "€30.35m"
+    },
+    {
+      "team": "Málaga CF",
+      "value": "€28.03m"
+    },
+    {
+      "team": "Cádiz CF",
+      "value": "€22.15m"
+    }
+  ],
+  "2006": [
+    {
+      "team": "Real Madrid",
+      "value": "€372.20m"
+    },
+    {
+      "team": "FC Barcelona",
+      "value": "€366.50m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€232.70m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€174.00m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€139.80m"
+    },
+    {
+      "team": "Real Zaragoza",
+      "value": "€121.25m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€109.05m"
+    },
+    {
+      "team": "Deportivo de La Coruña",
+      "value": "€98.85m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€78.93m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€71.35m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€62.15m"
+    },
+    {
+      "team": "RCD Mallorca",
+      "value": "€55.30m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€54.90m"
+    },
+    {
+      "team": "Celta de Vigo",
+      "value": "€54.88m"
+    },
+    {
+      "team": "Levante UD",
+      "value": "€53.75m"
+    },
+    {
+      "team": "Racing Santander",
+      "value": "€49.30m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€45.20m"
+    },
+    {
+      "team": "Recreativo Huelva",
+      "value": "€41.90m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€40.05m"
+    },
+    {
+      "team": "Gimnàstic de Tarragona",
+      "value": "€28.25m"
+    }
+  ],
+  "2007": [
+    {
+      "team": "FC Barcelona",
+      "value": "€413.70m"
+    },
+    {
+      "team": "Real Madrid",
+      "value": "€355.80m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€236.50m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€211.70m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€199.40m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€149.30m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€120.50m"
+    },
+    {
+      "team": "Real Zaragoza",
+      "value": "€119.90m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€81.90m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€81.10m"
+    },
+    {
+      "team": "RCD Mallorca",
+      "value": "€79.60m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€75.00m"
+    },
+    {
+      "team": "Racing Santander",
+      "value": "€73.70m"
+    },
+    {
+      "team": "Deportivo de La Coruña",
+      "value": "€72.10m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€68.90m"
+    },
+    {
+      "team": "UD Almería",
+      "value": "€56.70m"
+    },
+    {
+      "team": "Recreativo Huelva",
+      "value": "€55.60m"
+    },
+    {
+      "team": "Real Murcia CF",
+      "value": "€50.10m"
+    },
+    {
+      "team": "Real Valladolid CF",
+      "value": "€47.65m"
+    },
+    {
+      "team": "Levante UD",
+      "value": "€41.50m"
+    }
+  ],
+  "2008": [
+    {
+      "team": "Real Madrid",
+      "value": "€428.60m"
+    },
+    {
+      "team": "FC Barcelona",
+      "value": "€425.40m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€227.50m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€221.40m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€202.70m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€170.00m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€118.70m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€95.30m"
+    },
+    {
+      "team": "Racing Santander",
+      "value": "€85.50m"
+    },
+    {
+      "team": "UD Almería",
+      "value": "€80.00m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€77.60m"
+    },
+    {
+      "team": "Deportivo de La Coruña",
+      "value": "€77.30m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€74.50m"
+    },
+    {
+      "team": "RCD Mallorca",
+      "value": "€68.90m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€67.10m"
+    },
+    {
+      "team": "Málaga CF",
+      "value": "€54.00m"
+    },
+    {
+      "team": "Recreativo Huelva",
+      "value": "€49.90m"
+    },
+    {
+      "team": "Real Valladolid CF",
+      "value": "€48.80m"
+    },
+    {
+      "team": "CD Numancia",
+      "value": "€38.10m"
+    },
+    {
+      "team": "Sporting Gijón",
+      "value": "€36.30m"
+    }
+  ],
+  "2009": [
+    {
+      "team": "FC Barcelona",
+      "value": "€515.40m"
+    },
+    {
+      "team": "Real Madrid",
+      "value": "€451.70m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€240.00m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€218.30m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€210.80m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€163.70m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€100.80m"
+    },
+    {
+      "team": "Real Zaragoza",
+      "value": "€87.25m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€77.30m"
+    },
+    {
+      "team": "Deportivo de La Coruña",
+      "value": "€75.90m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€71.00m"
+    },
+    {
+      "team": "Racing Santander",
+      "value": "€65.50m"
+    },
+    {
+      "team": "RCD Mallorca",
+      "value": "€65.10m"
+    },
+    {
+      "team": "UD Almería",
+      "value": "€63.70m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€60.00m"
+    },
+    {
+      "team": "Málaga CF",
+      "value": "€58.60m"
+    },
+    {
+      "team": "Sporting Gijón",
+      "value": "€55.20m"
+    },
+    {
+      "team": "Real Valladolid CF",
+      "value": "€50.50m"
+    },
+    {
+      "team": "CD Tenerife",
+      "value": "€34.00m"
+    },
+    {
+      "team": "Xerez CD",
+      "value": "€32.50m"
+    }
+  ],
+  "2010": [
+    {
+      "team": "FC Barcelona",
+      "value": "€604.70m"
+    },
+    {
+      "team": "Real Madrid",
+      "value": "€519.00m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€187.00m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€176.60m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€175.60m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€170.60m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€112.00m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€78.40m"
+    },
+    {
+      "team": "UD Almería",
+      "value": "€73.60m"
+    },
+    {
+      "team": "Málaga CF",
+      "value": "€71.05m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€66.70m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€66.40m"
+    },
+    {
+      "team": "Deportivo de La Coruña",
+      "value": "€63.70m"
+    },
+    {
+      "team": "Racing Santander",
+      "value": "€59.30m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€57.90m"
+    },
+    {
+      "team": "Real Zaragoza",
+      "value": "€57.00m"
+    },
+    {
+      "team": "RCD Mallorca",
+      "value": "€53.70m"
+    },
+    {
+      "team": "Sporting Gijón",
+      "value": "€53.40m"
+    },
+    {
+      "team": "Hércules CF",
+      "value": "€51.70m"
+    },
+    {
+      "team": "Levante UD",
+      "value": "€37.40m"
+    }
+  ],
+  "2011": [
+    {
+      "team": "FC Barcelona",
+      "value": "€618.20m"
+    },
+    {
+      "team": "Real Madrid",
+      "value": "€539.20m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€210.00m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€181.00m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€144.20m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€137.00m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€133.00m"
+    },
+    {
+      "team": "Málaga CF",
+      "value": "€121.30m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€81.20m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€74.70m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€70.95m"
+    },
+    {
+      "team": "RCD Mallorca",
+      "value": "€62.20m"
+    },
+    {
+      "team": "Real Zaragoza",
+      "value": "€61.00m"
+    },
+    {
+      "team": "Granada CF",
+      "value": "€60.60m"
+    },
+    {
+      "team": "Sporting Gijón",
+      "value": "€53.40m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€52.70m"
+    },
+    {
+      "team": "Rayo Vallecano",
+      "value": "€47.30m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€44.40m"
+    },
+    {
+      "team": "Racing Santander",
+      "value": "€42.60m"
+    },
+    {
+      "team": "Levante UD",
+      "value": "€40.25m"
+    }
+  ],
+  "2012": [
+    {
+      "team": "FC Barcelona",
+      "value": "€586.60m"
+    },
+    {
+      "team": "Real Madrid",
+      "value": "€582.40m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€267.00m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€172.90m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€144.80m"
+    },
+    {
+      "team": "Málaga CF",
+      "value": "€122.90m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€119.85m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€112.80m"
+    },
+    {
+      "team": "Granada CF",
+      "value": "€72.80m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€68.30m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€66.20m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€64.10m"
+    },
+    {
+      "team": "Rayo Vallecano",
+      "value": "€49.75m"
+    },
+    {
+      "team": "Celta de Vigo",
+      "value": "€49.10m"
+    },
+    {
+      "team": "RCD Mallorca",
+      "value": "€47.10m"
+    },
+    {
+      "team": "Real Zaragoza",
+      "value": "€46.80m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€46.40m"
+    },
+    {
+      "team": "Deportivo de La Coruña",
+      "value": "€45.60m"
+    },
+    {
+      "team": "Levante UD",
+      "value": "€41.10m"
+    },
+    {
+      "team": "Real Valladolid CF",
+      "value": "€38.80m"
+    }
+  ],
+  "2013": [
+    {
+      "team": "Real Madrid",
+      "value": "€636.80m"
+    },
+    {
+      "team": "FC Barcelona",
+      "value": "€592.20m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€308.80m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€178.80m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€141.15m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€136.70m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€130.70m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€77.30m"
+    },
+    {
+      "team": "Málaga CF",
+      "value": "€62.50m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€58.60m"
+    },
+    {
+      "team": "Granada CF",
+      "value": "€57.48m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€55.90m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€51.30m"
+    },
+    {
+      "team": "Celta de Vigo",
+      "value": "€49.90m"
+    },
+    {
+      "team": "Rayo Vallecano",
+      "value": "€46.10m"
+    },
+    {
+      "team": "Elche CF",
+      "value": "€44.60m"
+    },
+    {
+      "team": "Levante UD",
+      "value": "€42.40m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€42.30m"
+    },
+    {
+      "team": "Real Valladolid CF",
+      "value": "€41.20m"
+    },
+    {
+      "team": "UD Almería",
+      "value": "€36.45m"
+    }
+  ],
+  "2014": [
+    {
+      "team": "Real Madrid",
+      "value": "€787.80m"
+    },
+    {
+      "team": "FC Barcelona",
+      "value": "€603.80m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€356.00m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€230.00m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€166.75m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€132.70m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€112.10m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€96.80m"
+    },
+    {
+      "team": "Málaga CF",
+      "value": "€82.80m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€75.70m"
+    },
+    {
+      "team": "Granada CF",
+      "value": "€67.55m"
+    },
+    {
+      "team": "Celta de Vigo",
+      "value": "€60.40m"
+    },
+    {
+      "team": "Deportivo de La Coruña",
+      "value": "€53.40m"
+    },
+    {
+      "team": "Rayo Vallecano",
+      "value": "€51.70m"
+    },
+    {
+      "team": "Córdoba CF",
+      "value": "€50.90m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€50.20m"
+    },
+    {
+      "team": "Levante UD",
+      "value": "€43.45m"
+    },
+    {
+      "team": "Elche CF",
+      "value": "€38.60m"
+    },
+    {
+      "team": "UD Almería",
+      "value": "€38.30m"
+    },
+    {
+      "team": "SD Eibar",
+      "value": "€29.40m"
+    }
+  ],
+  "2015": [
+    {
+      "team": "FC Barcelona",
+      "value": "€726.00m"
+    },
+    {
+      "team": "Real Madrid",
+      "value": "€714.30m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€418.50m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€254.00m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€230.30m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€148.00m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€140.60m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€119.40m"
+    },
+    {
+      "team": "Celta de Vigo",
+      "value": "€91.10m"
+    },
+    {
+      "team": "Málaga CF",
+      "value": "€77.95m"
+    },
+    {
+      "team": "Granada CF",
+      "value": "€71.50m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€62.20m"
+    },
+    {
+      "team": "Deportivo de La Coruña",
+      "value": "€61.75m"
+    },
+    {
+      "team": "SD Eibar",
+      "value": "€56.60m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€56.40m"
+    },
+    {
+      "team": "Sporting Gijón",
+      "value": "€53.20m"
+    },
+    {
+      "team": "Levante UD",
+      "value": "€53.10m"
+    },
+    {
+      "team": "Rayo Vallecano",
+      "value": "€49.60m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€49.10m"
+    },
+    {
+      "team": "UD Las Palmas",
+      "value": "€32.20m"
+    }
+  ],
+  "2016": [
+    {
+      "team": "Real Madrid",
+      "value": "€802.90m"
+    },
+    {
+      "team": "FC Barcelona",
+      "value": "€765.30m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€515.80m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€270.10m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€257.50m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€190.70m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€172.60m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€156.45m"
+    },
+    {
+      "team": "Celta de Vigo",
+      "value": "€122.40m"
+    },
+    {
+      "team": "Deportivo de La Coruña",
+      "value": "€94.00m"
+    },
+    {
+      "team": "Deportivo Alavés",
+      "value": "€85.40m"
+    },
+    {
+      "team": "Málaga CF",
+      "value": "€84.30m"
+    },
+    {
+      "team": "UD Las Palmas",
+      "value": "€84.30m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€84.20m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€80.80m"
+    },
+    {
+      "team": "SD Eibar",
+      "value": "€67.95m"
+    },
+    {
+      "team": "Granada CF",
+      "value": "€66.45m"
+    },
+    {
+      "team": "CD Leganés",
+      "value": "€53.15m"
+    },
+    {
+      "team": "Sporting Gijón",
+      "value": "€46.75m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€42.90m"
+    }
+  ],
+  "2017": [
+    {
+      "team": "FC Barcelona",
+      "value": "€1.09bn"
+    },
+    {
+      "team": "Real Madrid",
+      "value": "€955.35m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€711.15m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€398.05m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€253.20m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€249.40m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€232.95m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€220.00m"
+    },
+    {
+      "team": "Celta de Vigo",
+      "value": "€173.05m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€132.25m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€97.80m"
+    },
+    {
+      "team": "UD Las Palmas",
+      "value": "€91.25m"
+    },
+    {
+      "team": "Girona FC",
+      "value": "€81.75m"
+    },
+    {
+      "team": "Deportivo Alavés",
+      "value": "€74.80m"
+    },
+    {
+      "team": "Deportivo de La Coruña",
+      "value": "€66.45m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€65.60m"
+    },
+    {
+      "team": "Levante UD",
+      "value": "€61.85m"
+    },
+    {
+      "team": "SD Eibar",
+      "value": "€60.05m"
+    },
+    {
+      "team": "CD Leganés",
+      "value": "€58.55m"
+    },
+    {
+      "team": "Málaga CF",
+      "value": "€55.20m"
+    }
+  ],
+  "2018": [
+    {
+      "team": "FC Barcelona",
+      "value": "€1.16bn"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€969.70m"
+    },
+    {
+      "team": "Real Madrid",
+      "value": "€896.10m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€499.65m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€306.30m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€300.95m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€290.75m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€234.25m"
+    },
+    {
+      "team": "Celta de Vigo",
+      "value": "€234.10m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€230.65m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€174.70m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€132.20m"
+    },
+    {
+      "team": "CD Leganés",
+      "value": "€112.45m"
+    },
+    {
+      "team": "Deportivo Alavés",
+      "value": "€110.80m"
+    },
+    {
+      "team": "Levante UD",
+      "value": "€107.85m"
+    },
+    {
+      "team": "Girona FC",
+      "value": "€97.25m"
+    },
+    {
+      "team": "SD Eibar",
+      "value": "€93.90m"
+    },
+    {
+      "team": "Rayo Vallecano",
+      "value": "€86.70m"
+    },
+    {
+      "team": "Real Valladolid CF",
+      "value": "€83.00m"
+    },
+    {
+      "team": "SD Huesca",
+      "value": "€61.40m"
+    }
+  ],
+  "2019": [
+    {
+      "team": "FC Barcelona",
+      "value": "€930.28m"
+    },
+    {
+      "team": "Real Madrid",
+      "value": "€913.75m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€720.15m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€427.80m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€347.55m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€294.75m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€244.35m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€211.75m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€208.68m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€175.45m"
+    },
+    {
+      "team": "Celta de Vigo",
+      "value": "€167.00m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€156.05m"
+    },
+    {
+      "team": "CD Leganés",
+      "value": "€109.70m"
+    },
+    {
+      "team": "Deportivo Alavés",
+      "value": "€106.75m"
+    },
+    {
+      "team": "Levante UD",
+      "value": "€90.50m"
+    },
+    {
+      "team": "Real Valladolid CF",
+      "value": "€87.78m"
+    },
+    {
+      "team": "RCD Mallorca",
+      "value": "€64.68m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€62.78m"
+    },
+    {
+      "team": "Granada CF",
+      "value": "€56.58m"
+    },
+    {
+      "team": "SD Eibar",
+      "value": "€53.75m"
+    }
+  ],
+  "2020": [
+    {
+      "team": "FC Barcelona",
+      "value": "€813.50m"
+    },
+    {
+      "team": "Real Madrid",
+      "value": "€787.30m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€773.10m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€418.25m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€406.60m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€292.60m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€278.85m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€207.70m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€204.15m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€170.10m"
+    },
+    {
+      "team": "Celta de Vigo",
+      "value": "€155.85m"
+    },
+    {
+      "team": "Granada CF",
+      "value": "€122.65m"
+    },
+    {
+      "team": "Levante UD",
+      "value": "€113.00m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€96.75m"
+    },
+    {
+      "team": "SD Eibar",
+      "value": "€83.40m"
+    },
+    {
+      "team": "Deportivo Alavés",
+      "value": "€79.80m"
+    },
+    {
+      "team": "SD Huesca",
+      "value": "€64.10m"
+    },
+    {
+      "team": "Real Valladolid CF",
+      "value": "€63.35m"
+    },
+    {
+      "team": "Cádiz CF",
+      "value": "€47.65m"
+    },
+    {
+      "team": "Elche CF",
+      "value": "€45.65m"
+    }
+  ],
+  "2021": [
+    {
+      "team": "Real Madrid",
+      "value": "€770.75m"
+    },
+    {
+      "team": "FC Barcelona",
+      "value": "€735.60m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€661.80m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€408.90m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€385.00m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€376.95m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€310.60m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€259.00m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€226.05m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€208.68m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€131.60m"
+    },
+    {
+      "team": "Celta de Vigo",
+      "value": "€120.00m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€108.45m"
+    },
+    {
+      "team": "Granada CF",
+      "value": "€103.75m"
+    },
+    {
+      "team": "Levante UD",
+      "value": "€77.90m"
+    },
+    {
+      "team": "RCD Mallorca",
+      "value": "€74.15m"
+    },
+    {
+      "team": "Elche CF",
+      "value": "€72.98m"
+    },
+    {
+      "team": "Cádiz CF",
+      "value": "€67.80m"
+    },
+    {
+      "team": "Rayo Vallecano",
+      "value": "€67.20m"
+    },
+    {
+      "team": "Deportivo Alavés",
+      "value": "€65.35m"
+    }
+  ],
+  "2022": [
+    {
+      "team": "Real Madrid",
+      "value": "€923.45m"
+    },
+    {
+      "team": "FC Barcelona",
+      "value": "€836.80m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€534.30m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€441.70m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€363.50m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€249.78m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€246.40m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€232.58m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€222.45m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€150.05m"
+    },
+    {
+      "team": "Girona FC",
+      "value": "€139.90m"
+    },
+    {
+      "team": "Celta de Vigo",
+      "value": "€138.80m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€118.90m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€116.50m"
+    },
+    {
+      "team": "UD Almería",
+      "value": "€114.20m"
+    },
+    {
+      "team": "RCD Mallorca",
+      "value": "€107.00m"
+    },
+    {
+      "team": "Rayo Vallecano",
+      "value": "€103.40m"
+    },
+    {
+      "team": "Real Valladolid CF",
+      "value": "€90.75m"
+    },
+    {
+      "team": "Elche CF",
+      "value": "€67.50m"
+    },
+    {
+      "team": "Cádiz CF",
+      "value": "€65.60m"
+    }
+  ],
+  "2023": [
+    {
+      "team": "Real Madrid",
+      "value": "€1.14bn"
+    },
+    {
+      "team": "FC Barcelona",
+      "value": "€916.20m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€498.50m"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€458.45m"
+    },
+    {
+      "team": "Girona FC",
+      "value": "€297.90m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€295.65m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€252.50m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€244.73m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€228.75m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€224.88m"
+    },
+    {
+      "team": "Celta de Vigo",
+      "value": "€149.30m"
+    },
+    {
+      "team": "Granada CF",
+      "value": "€141.10m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€133.00m"
+    },
+    {
+      "team": "Deportivo Alavés",
+      "value": "€123.70m"
+    },
+    {
+      "team": "UD Las Palmas",
+      "value": "€112.40m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€105.35m"
+    },
+    {
+      "team": "UD Almería",
+      "value": "€99.40m"
+    },
+    {
+      "team": "RCD Mallorca",
+      "value": "€87.70m"
+    },
+    {
+      "team": "Rayo Vallecano",
+      "value": "€63.95m"
+    },
+    {
+      "team": "Cádiz CF",
+      "value": "€60.70m"
+    }
+  ],
+  "2024": [
+    {
+      "team": "Real Madrid",
+      "value": "€1.35bn"
+    },
+    {
+      "team": "FC Barcelona",
+      "value": "€1.08bn"
+    },
+    {
+      "team": "Atlético de Madrid",
+      "value": "€542.50m"
+    },
+    {
+      "team": "Athletic Bilbao",
+      "value": "€375.35m"
+    },
+    {
+      "team": "Real Sociedad",
+      "value": "€345.05m"
+    },
+    {
+      "team": "Real Betis Balompié",
+      "value": "€291.70m"
+    },
+    {
+      "team": "Villarreal CF",
+      "value": "€264.25m"
+    },
+    {
+      "team": "Valencia CF",
+      "value": "€215.55m"
+    },
+    {
+      "team": "Sevilla FC",
+      "value": "€183.90m"
+    },
+    {
+      "team": "Girona FC",
+      "value": "€153.10m"
+    },
+    {
+      "team": "Celta de Vigo",
+      "value": "€130.90m"
+    },
+    {
+      "team": "UD Las Palmas",
+      "value": "€117.30m"
+    },
+    {
+      "team": "RCD Espanyol Barcelona",
+      "value": "€116.98m"
+    },
+    {
+      "team": "CA Osasuna",
+      "value": "€113.28m"
+    },
+    {
+      "team": "Deportivo Alavés",
+      "value": "€92.35m"
+    },
+    {
+      "team": "Getafe CF",
+      "value": "€87.70m"
+    },
+    {
+      "team": "RCD Mallorca",
+      "value": "€84.88m"
+    },
+    {
+      "team": "Real Valladolid CF",
+      "value": "€81.45m"
+    },
+    {
+      "team": "Rayo Vallecano",
+      "value": "€68.00m"
+    },
+    {
+      "team": "CD Leganés",
+      "value": "€47.98m"
+    }
+  ]
+}

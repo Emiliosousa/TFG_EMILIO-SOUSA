@@ -1,0 +1,259 @@
+/* LALIGA TECH SUITE v5.0 - OFFICIAL BROADCAST PRODUCT */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;400;600;800&family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+/* --- GLOBAL APP SHELL --- */
+.stApp {
+    background-color: #09090b;
+    /* Zinc-950 equivalent */
+    color: #e4e4e7;
+    font-family: 'Outfit', sans-serif;
+    background-image:
+        radial-gradient(circle at 50% 0%, rgba(255, 75, 75, 0.05) 0%, transparent 50%),
+        linear-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+    background-size: 100% 100%, 40px 40px, 40px 40px;
+    /* Subtle Grid */
+}
+
+/* Hide Streamlit Chrome */
+header[data-testid="stHeader"] {
+    display: none;
+}
+
+footer {
+    display: none;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+
+/* Edge-to-Edge Layout */
+.block-container {
+    padding-top: 0 !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    max-width: 100% !important;
+}
+
+/* --- TYPOGRAPHY (BRANDED) --- */
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Outfit', sans-serif !important;
+    text-transform: uppercase;
+    letter-spacing: -0.02em;
+    color: #fff;
+    margin: 0 !important;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 2.2rem;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: #d4d4d8;
+}
+
+h3 {
+    font-weight: 600;
+    font-size: 1rem;
+    color: #a1a1aa;
+    letter-spacing: 0.05em;
+}
+
+h4 {
+    font-weight: 600;
+    font-size: 0.85rem;
+    color: #ff4b4b;
+    letter-spacing: 0.1em;
+}
+
+/* --- SIDEBAR (COMMAND CENTER) --- */
+section[data-testid="stSidebar"] {
+    background-color: #000000;
+    border-right: 1px solid #27272a;
+    width: 280px !important;
+}
+
+section[data-testid="stSidebar"] hr {
+    margin: 1rem 0;
+    border-bottom: 1px solid #27272a;
+}
+
+/* --- WIDGET RESKINNING (PRO CONTROLS) --- */
+/* Selectbox */
+div[data-baseweb="select"]>div {
+    background-color: #18181b;
+    border: 1px solid #3f3f46;
+    border-radius: 6px;
+    color: #fff;
+}
+
+div[data-baseweb="select"]>div:hover {
+    border-color: #ff4b4b;
+}
+
+/* Radio Buttons (Tabs style) */
+div.stRadio>div[role="radiogroup"] {
+    background-color: #18181b;
+    padding: 4px;
+    border-radius: 8px;
+    border: 1px solid #27272a;
+}
+
+div.stRadio label {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    font-size: 0.9rem;
+    padding: 8px 16px;
+    border-radius: 6px;
+    transition: all 0.2s;
+}
+
+/* Metrics */
+div[data-testid="stMetric"] {
+    background: linear-gradient(180deg, #18181b 0%, #09090b 100%);
+    border: 1px solid #27272a;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+div[data-testid="stMetric"]:hover {
+    border-color: #52525b;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+[data-testid="stMetricLabel"] {
+    font-size: 0.75rem !important;
+    color: #a1a1aa;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+}
+
+[data-testid="stMetricValue"] {
+    font-size: 1.8rem !important;
+    font-weight: 700;
+    color: #fff;
+}
+
+/* --- BROADCAST HEADER (HERO) --- */
+.tech-header-bar {
+    background: #000;
+    border-bottom: 2px solid #ff4b4b;
+    padding: 15px 30px;
+    margin: 0 -1rem 20px -1rem;
+    /* Negative margin to span full width */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.copilot-badge {
+    background: linear-gradient(135deg, #1d4ed8 0%, #7c3aed 100%);
+    color: #fff;
+    padding: 6px 14px;
+    border-radius: 100px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+/* --- TV STATS CARD (HIGH DENSITY) --- */
+.tv-card-container {
+    background: rgba(9, 9, 11, 0.85);
+    /* Zinc-950 Glass */
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 16px;
+    padding: 20px;
+    margin-top: 20px;
+    position: relative;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.tv-score-huge {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 200;
+    font-size: 9rem;
+    color: #fff;
+    line-height: 1;
+    min-width: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.3);
+    text-shadow: 0 0 40px rgba(255, 75, 75, 0.2);
+}
+
+.tv-stats-panel {
+    flex-grow: 1;
+    max-width: 800px;
+    border-left: 1px solid rgba(255, 255, 255, 0.05);
+    border-right: 1px solid rgba(255, 255, 255, 0.05);
+    padding: 20px 40px;
+    max-height: 650px;
+    overflow-y: auto;
+}
+
+.tv-stats-panel::-webkit-scrollbar {
+    width: 4px;
+}
+
+.tv-stats-panel::-webkit-scrollbar-thumb {
+    background: #3f3f46;
+    border-radius: 4px;
+}
+
+.tv-stat-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+    padding: 12px 0;
+}
+
+.tv-stat-label {
+    color: #a1a1aa;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    letter-spacing: 0.15em;
+    flex-grow: 1;
+    text-align: center;
+    font-weight: 700;
+}
+
+.tv-stat-value {
+    color: #fff;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+    width: 100px;
+    text-align: center;
+}
+
+/* Logo Animation */
+.team-logo-dynamic {
+    height: 120px;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.5));
+}
+
+.team-logo-dynamic:hover {
+    transform: scale(1.1) rotate(2deg);
+    filter: drop-shadow(0 0 25px rgba(255, 75, 75, 0.4));
+}

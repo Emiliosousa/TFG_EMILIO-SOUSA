@@ -1,0 +1,3235 @@
+{
+  "2015": [
+    {
+      "player": "Thomas Partey",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "05/12/2025"
+    },
+    {
+      "player": "Carlos Domínguez",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Muscle fiber tear",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Borja Iglesias",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Back injury",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Mihailo Ristic",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Sergio Escudero",
+      "team": "Deportivo de La Coruña",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/897.png?lm=1764158791",
+      "injury": "Muscle injury",
+      "returnDate": "20/10/2025"
+    },
+    {
+      "player": "Ander Barrenetxea",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf problems",
+      "returnDate": "12/12/2025"
+    },
+    {
+      "player": "Yangel Herrera",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf injury",
+      "returnDate": "24/10/2025"
+    },
+    {
+      "player": "Hugo Sotelo",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Jeremía Recoba",
+      "team": "UD Las Palmas",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/472.png?lm=1407484865",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "11/10/2025"
+    },
+    {
+      "player": "Sandro Ramírez",
+      "team": "UD Las Palmas",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/472.png?lm=1407484865",
+      "injury": "Knee injury",
+      "returnDate": "17/07/2025"
+    },
+    {
+      "player": "Federico Valverde",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knock",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Juan Foyth",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Rubén Vargas",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Hamstring injury",
+      "returnDate": "25/11/2025"
+    },
+    {
+      "player": "Abdel Abqar",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Muscle injury",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Jules Koundé",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Hamstring injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Luismi Sánchez",
+      "team": "Málaga CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1084.png?lm=1749674822",
+      "injury": "Midfacial fracture",
+      "returnDate": "16/08/2025"
+    },
+    {
+      "player": "Isco",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Ankle injury",
+      "returnDate": "27/11/2025"
+    },
+    {
+      "player": "Junior Firpo",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Santiago Mouriño",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "01/12/2025"
+    },
+    {
+      "player": "Alemão",
+      "team": "Rayo Vallecano",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/367.png?lm=1653488445",
+      "injury": "Inflammation of pubic bone",
+      "returnDate": "03/12/2025"
+    },
+    {
+      "player": "César Azpilicueta",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Left hip flexor problems",
+      "returnDate": "11/12/2025"
+    },
+    {
+      "player": "Tanguy Nianzou",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Hamstring injury",
+      "returnDate": "14/11/2025"
+    },
+    {
+      "player": "Pablo Durán",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Shoulder injury",
+      "returnDate": "10/12/2025"
+    },
+    {
+      "player": "Stole Dimitrievski",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Torn muscle fiber in the adductor area",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Eray Cömert",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Injury to abdominal muscles",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Goduine Koyalipou",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Calf problems",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Ramón Terrats",
+      "team": "RCD Espanyol Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/714.png?lm=1406966369",
+      "injury": "Inflammation of the biceps tendon in the thigh",
+      "returnDate": "07/12/2025"
+    },
+    {
+      "player": "Diego Llorente",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Adductor injury",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Nico González",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Muscle injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Daniel Carvajal",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knee injury",
+      "returnDate": "27/10/2025"
+    },
+    {
+      "player": "Aymeric Laporte",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Jorge de Frutos",
+      "team": "Rayo Vallecano",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/367.png?lm=1653488445",
+      "injury": "Knee injury",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Davinchi",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Meniscus tear",
+      "returnDate": "15/09/2025"
+    },
+    {
+      "player": "Trent Alexander-Arnold",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle tear",
+      "returnDate": "04/12/2025"
+    },
+    {
+      "player": "Gavi",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Arthroscopy",
+      "returnDate": "29/08/2025"
+    },
+    {
+      "player": "Unai Elgezabal",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Tear of the lateral meniscus",
+      "returnDate": "29/11/2025"
+    },
+    {
+      "player": "Unai Egiluz",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "30/07/2025"
+    },
+    {
+      "player": "Logan Costa",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "19/07/2025"
+    },
+    {
+      "player": "Roger Brugué",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Outer ligament tear",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Clément Lenglet",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Inner ligament injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Éder Militão",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle injury",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Pau Cabanes",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "26/08/2025"
+    },
+    {
+      "player": "Álex Pastor",
+      "team": "Málaga CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1084.png?lm=1749674822",
+      "injury": "Torn knee ligaments",
+      "returnDate": "27/08/2025"
+    },
+    {
+      "player": "Andreas Christensen",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Ligament tear",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Beñat Prados",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "13/09/2025"
+    }
+  ],
+  "2016": [
+    {
+      "player": "Federico Valverde",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knock",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Borja Iglesias",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Back injury",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Mihailo Ristic",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Sergio Escudero",
+      "team": "Deportivo de La Coruña",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/897.png?lm=1764158791",
+      "injury": "Muscle injury",
+      "returnDate": "20/10/2025"
+    },
+    {
+      "player": "Ander Barrenetxea",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf problems",
+      "returnDate": "12/12/2025"
+    },
+    {
+      "player": "Yangel Herrera",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf injury",
+      "returnDate": "24/10/2025"
+    },
+    {
+      "player": "Carlos Domínguez",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Muscle fiber tear",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Hugo Sotelo",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Jeremía Recoba",
+      "team": "UD Las Palmas",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/472.png?lm=1407484865",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "11/10/2025"
+    },
+    {
+      "player": "Sandro Ramírez",
+      "team": "UD Las Palmas",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/472.png?lm=1407484865",
+      "injury": "Knee injury",
+      "returnDate": "17/07/2025"
+    },
+    {
+      "player": "Thomas Partey",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "05/12/2025"
+    },
+    {
+      "player": "César Azpilicueta",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Left hip flexor problems",
+      "returnDate": "11/12/2025"
+    },
+    {
+      "player": "Juan Foyth",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Junior Firpo",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Isco",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Ankle injury",
+      "returnDate": "27/11/2025"
+    },
+    {
+      "player": "Santiago Mouriño",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "01/12/2025"
+    },
+    {
+      "player": "Jules Koundé",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Hamstring injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Luismi Sánchez",
+      "team": "Málaga CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1084.png?lm=1749674822",
+      "injury": "Midfacial fracture",
+      "returnDate": "16/08/2025"
+    },
+    {
+      "player": "Lucas Boyé",
+      "team": "Deportivo Alavés",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1108.png?lm=1596131395",
+      "injury": "unknown injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Pablo Durán",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Shoulder injury",
+      "returnDate": "10/12/2025"
+    },
+    {
+      "player": "Eray Cömert",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Injury to abdominal muscles",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Stole Dimitrievski",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Torn muscle fiber in the adductor area",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Ramón Terrats",
+      "team": "RCD Espanyol Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/714.png?lm=1406966369",
+      "injury": "Inflammation of the biceps tendon in the thigh",
+      "returnDate": "07/12/2025"
+    },
+    {
+      "player": "Diego Llorente",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Adductor injury",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Nico González",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Muscle injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Daniel Carvajal",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knee injury",
+      "returnDate": "27/10/2025"
+    },
+    {
+      "player": "Aymeric Laporte",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Trent Alexander-Arnold",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle tear",
+      "returnDate": "04/12/2025"
+    },
+    {
+      "player": "Rubén Pulido",
+      "team": "CD Leganés",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1244.png?lm=1764600019",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "05/07/2025"
+    },
+    {
+      "player": "Gavi",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Arthroscopy",
+      "returnDate": "29/08/2025"
+    },
+    {
+      "player": "Unai Egiluz",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "30/07/2025"
+    },
+    {
+      "player": "Logan Costa",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "19/07/2025"
+    },
+    {
+      "player": "Clément Lenglet",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Inner ligament injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Éder Militão",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle injury",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Pau Cabanes",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "26/08/2025"
+    },
+    {
+      "player": "Álex Pastor",
+      "team": "Málaga CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1084.png?lm=1749674822",
+      "injury": "Torn knee ligaments",
+      "returnDate": "27/08/2025"
+    },
+    {
+      "player": "Andreas Christensen",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Ligament tear",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Beñat Prados",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "13/09/2025"
+    },
+    {
+      "player": "Iker Benito",
+      "team": "CA Osasuna",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/331.png?lm=1686070937",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "29/10/2025"
+    }
+  ],
+  "2017": [
+    {
+      "player": "Juan Carlos",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Knee injury",
+      "returnDate": "01/09/2025"
+    },
+    {
+      "player": "Hugo Sotelo",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Carlos Domínguez",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Muscle fiber tear",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Borja Iglesias",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Back injury",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Mihailo Ristic",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Sergio Escudero",
+      "team": "Deportivo de La Coruña",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/897.png?lm=1764158791",
+      "injury": "Muscle injury",
+      "returnDate": "20/10/2025"
+    },
+    {
+      "player": "Ander Barrenetxea",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf problems",
+      "returnDate": "12/12/2025"
+    },
+    {
+      "player": "Yangel Herrera",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf injury",
+      "returnDate": "24/10/2025"
+    },
+    {
+      "player": "Thomas Partey",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "05/12/2025"
+    },
+    {
+      "player": "Juan Foyth",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Jeremía Recoba",
+      "team": "UD Las Palmas",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/472.png?lm=1407484865",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "11/10/2025"
+    },
+    {
+      "player": "Sandro Ramírez",
+      "team": "UD Las Palmas",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/472.png?lm=1407484865",
+      "injury": "Knee injury",
+      "returnDate": "17/07/2025"
+    },
+    {
+      "player": "Santiago Mouriño",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "01/12/2025"
+    },
+    {
+      "player": "Federico Valverde",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knock",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Luismi Sánchez",
+      "team": "Málaga CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1084.png?lm=1749674822",
+      "injury": "Midfacial fracture",
+      "returnDate": "16/08/2025"
+    },
+    {
+      "player": "Lucas Boyé",
+      "team": "Deportivo Alavés",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1108.png?lm=1596131395",
+      "injury": "unknown injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Tanguy Nianzou",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Hamstring injury",
+      "returnDate": "14/11/2025"
+    },
+    {
+      "player": "Rubén Vargas",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Hamstring injury",
+      "returnDate": "25/11/2025"
+    },
+    {
+      "player": "César Azpilicueta",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Left hip flexor problems",
+      "returnDate": "11/12/2025"
+    },
+    {
+      "player": "Junior Firpo",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Isco",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Ankle injury",
+      "returnDate": "27/11/2025"
+    },
+    {
+      "player": "Abdel Abqar",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Muscle injury",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Jules Koundé",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Hamstring injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Cristhian Stuani",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Calf injury",
+      "returnDate": "26/11/2025"
+    },
+    {
+      "player": "Pablo Durán",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Shoulder injury",
+      "returnDate": "10/12/2025"
+    },
+    {
+      "player": "Eray Cömert",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Injury to abdominal muscles",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Goduine Koyalipou",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Calf problems",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Stole Dimitrievski",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Torn muscle fiber in the adductor area",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Abel Ruiz",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Muscle fiber tear",
+      "returnDate": "03/12/2025"
+    },
+    {
+      "player": "Ramón Terrats",
+      "team": "RCD Espanyol Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/714.png?lm=1406966369",
+      "injury": "Inflammation of the biceps tendon in the thigh",
+      "returnDate": "07/12/2025"
+    },
+    {
+      "player": "Diego Llorente",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Adductor injury",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Nico González",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Muscle injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Daniel Carvajal",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knee injury",
+      "returnDate": "27/10/2025"
+    },
+    {
+      "player": "Aymeric Laporte",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Davinchi",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Meniscus tear",
+      "returnDate": "15/09/2025"
+    },
+    {
+      "player": "Trent Alexander-Arnold",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle tear",
+      "returnDate": "04/12/2025"
+    },
+    {
+      "player": "Rubén Pulido",
+      "team": "CD Leganés",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1244.png?lm=1764600019",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "05/07/2025"
+    },
+    {
+      "player": "Gavi",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Arthroscopy",
+      "returnDate": "29/08/2025"
+    },
+    {
+      "player": "Unai Elgezabal",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Tear of the lateral meniscus",
+      "returnDate": "29/11/2025"
+    },
+    {
+      "player": "Clément Lenglet",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Inner ligament injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Roger Brugué",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Outer ligament tear",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Logan Costa",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "19/07/2025"
+    },
+    {
+      "player": "Unai Egiluz",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "30/07/2025"
+    },
+    {
+      "player": "Éder Militão",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle injury",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Donny van de Beek",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Achilles tendon rupture",
+      "returnDate": "24/09/2025"
+    },
+    {
+      "player": "Pau Cabanes",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "26/08/2025"
+    },
+    {
+      "player": "Álex Pastor",
+      "team": "Málaga CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1084.png?lm=1749674822",
+      "injury": "Torn knee ligaments",
+      "returnDate": "27/08/2025"
+    },
+    {
+      "player": "Andreas Christensen",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Ligament tear",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Beñat Prados",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "13/09/2025"
+    },
+    {
+      "player": "Portu",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Torn knee ligaments",
+      "returnDate": "19/11/2025"
+    }
+  ],
+  "2018": [
+    {
+      "player": "Rubén Vargas",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Hamstring injury",
+      "returnDate": "25/11/2025"
+    },
+    {
+      "player": "Mihailo Ristic",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Borja Iglesias",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Back injury",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Ander Barrenetxea",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf problems",
+      "returnDate": "12/12/2025"
+    },
+    {
+      "player": "Yangel Herrera",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf injury",
+      "returnDate": "24/10/2025"
+    },
+    {
+      "player": "Carlos Domínguez",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Muscle fiber tear",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Thomas Partey",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "05/12/2025"
+    },
+    {
+      "player": "Juan Foyth",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Santiago Mouriño",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "01/12/2025"
+    },
+    {
+      "player": "Federico Valverde",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knock",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Lucas Boyé",
+      "team": "Deportivo Alavés",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1108.png?lm=1596131395",
+      "injury": "unknown injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Hugo Sotelo",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Tanguy Nianzou",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Hamstring injury",
+      "returnDate": "14/11/2025"
+    },
+    {
+      "player": "César Azpilicueta",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Left hip flexor problems",
+      "returnDate": "11/12/2025"
+    },
+    {
+      "player": "Alemão",
+      "team": "Rayo Vallecano",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/367.png?lm=1653488445",
+      "injury": "Inflammation of pubic bone",
+      "returnDate": "03/12/2025"
+    },
+    {
+      "player": "Abdel Abqar",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Muscle injury",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Marcos André",
+      "team": "Real Valladolid CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/366.png?lm=1720163563",
+      "injury": "Muscle injury",
+      "returnDate": "29/11/2025"
+    },
+    {
+      "player": "Javi Mier",
+      "team": "SD Huesca",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/5358.png?lm=1726751837",
+      "injury": "Knee injury",
+      "returnDate": "03/01/2025"
+    },
+    {
+      "player": "Junior Firpo",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Samuel Ntamack",
+      "team": "SD Huesca",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/5358.png?lm=1726751837",
+      "injury": "Knee injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Isco",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Ankle injury",
+      "returnDate": "27/11/2025"
+    },
+    {
+      "player": "Diego Aznar",
+      "team": "SD Huesca",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/5358.png?lm=1726751837",
+      "injury": "Knee injury",
+      "returnDate": "05/11/2025"
+    },
+    {
+      "player": "Jules Koundé",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Hamstring injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Cristhian Stuani",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Calf injury",
+      "returnDate": "26/11/2025"
+    },
+    {
+      "player": "Juan Carlos",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Knee injury",
+      "returnDate": "01/09/2025"
+    },
+    {
+      "player": "Pablo Durán",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Shoulder injury",
+      "returnDate": "10/12/2025"
+    },
+    {
+      "player": "Stole Dimitrievski",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Torn muscle fiber in the adductor area",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Eray Cömert",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Injury to abdominal muscles",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Goduine Koyalipou",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Calf problems",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Abel Ruiz",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Muscle fiber tear",
+      "returnDate": "03/12/2025"
+    },
+    {
+      "player": "Ramón Terrats",
+      "team": "RCD Espanyol Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/714.png?lm=1406966369",
+      "injury": "Inflammation of the biceps tendon in the thigh",
+      "returnDate": "07/12/2025"
+    },
+    {
+      "player": "Diego Llorente",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Adductor injury",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Nico González",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Muscle injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Daniel Carvajal",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knee injury",
+      "returnDate": "27/10/2025"
+    },
+    {
+      "player": "Aymeric Laporte",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Davinchi",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Meniscus tear",
+      "returnDate": "15/09/2025"
+    },
+    {
+      "player": "Jorge de Frutos",
+      "team": "Rayo Vallecano",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/367.png?lm=1653488445",
+      "injury": "Knee injury",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Trent Alexander-Arnold",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle tear",
+      "returnDate": "04/12/2025"
+    },
+    {
+      "player": "Rubén Pulido",
+      "team": "CD Leganés",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1244.png?lm=1764600019",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "05/07/2025"
+    },
+    {
+      "player": "Gavi",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Arthroscopy",
+      "returnDate": "29/08/2025"
+    },
+    {
+      "player": "Unai Elgezabal",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Tear of the lateral meniscus",
+      "returnDate": "29/11/2025"
+    },
+    {
+      "player": "Roger Brugué",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Outer ligament tear",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Clément Lenglet",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Inner ligament injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Logan Costa",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "19/07/2025"
+    },
+    {
+      "player": "Unai Egiluz",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "30/07/2025"
+    },
+    {
+      "player": "Amath Ndiaye",
+      "team": "Real Valladolid CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/366.png?lm=1720163563",
+      "injury": "Broken fibula",
+      "returnDate": "10/12/2025"
+    },
+    {
+      "player": "Éder Militão",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle injury",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Donny van de Beek",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Achilles tendon rupture",
+      "returnDate": "24/09/2025"
+    },
+    {
+      "player": "Pau Cabanes",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "26/08/2025"
+    },
+    {
+      "player": "Andreas Christensen",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Ligament tear",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Beñat Prados",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "13/09/2025"
+    },
+    {
+      "player": "Portu",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Torn knee ligaments",
+      "returnDate": "19/11/2025"
+    }
+  ],
+  "2019": [
+    {
+      "player": "Thomas Partey",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "05/12/2025"
+    },
+    {
+      "player": "Borja Iglesias",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Back injury",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Mihailo Ristic",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Ander Barrenetxea",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf problems",
+      "returnDate": "12/12/2025"
+    },
+    {
+      "player": "Yangel Herrera",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf injury",
+      "returnDate": "24/10/2025"
+    },
+    {
+      "player": "Carlos Domínguez",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Muscle fiber tear",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Hugo Sotelo",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Federico Valverde",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knock",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "César Azpilicueta",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Left hip flexor problems",
+      "returnDate": "11/12/2025"
+    },
+    {
+      "player": "Marcos André",
+      "team": "Real Valladolid CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/366.png?lm=1720163563",
+      "injury": "Muscle injury",
+      "returnDate": "29/11/2025"
+    },
+    {
+      "player": "Juan Foyth",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Santiago Mouriño",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "01/12/2025"
+    },
+    {
+      "player": "Junior Firpo",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Isco",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Ankle injury",
+      "returnDate": "27/11/2025"
+    },
+    {
+      "player": "Lucas Boyé",
+      "team": "Deportivo Alavés",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1108.png?lm=1596131395",
+      "injury": "unknown injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Jules Koundé",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Hamstring injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Abdel Abqar",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Muscle injury",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Pablo Durán",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Shoulder injury",
+      "returnDate": "10/12/2025"
+    },
+    {
+      "player": "Eray Cömert",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Injury to abdominal muscles",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Stole Dimitrievski",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Torn muscle fiber in the adductor area",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Goduine Koyalipou",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Calf problems",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Ramón Terrats",
+      "team": "RCD Espanyol Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/714.png?lm=1406966369",
+      "injury": "Inflammation of the biceps tendon in the thigh",
+      "returnDate": "07/12/2025"
+    },
+    {
+      "player": "Diego Llorente",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Adductor injury",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Nico González",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Muscle injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Daniel Carvajal",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knee injury",
+      "returnDate": "27/10/2025"
+    },
+    {
+      "player": "Aymeric Laporte",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Davinchi",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Meniscus tear",
+      "returnDate": "15/09/2025"
+    },
+    {
+      "player": "Trent Alexander-Arnold",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle tear",
+      "returnDate": "04/12/2025"
+    },
+    {
+      "player": "Rubén Pulido",
+      "team": "CD Leganés",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1244.png?lm=1764600019",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "05/07/2025"
+    },
+    {
+      "player": "Gavi",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Arthroscopy",
+      "returnDate": "29/08/2025"
+    },
+    {
+      "player": "Unai Elgezabal",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Tear of the lateral meniscus",
+      "returnDate": "29/11/2025"
+    },
+    {
+      "player": "Unai Egiluz",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "30/07/2025"
+    },
+    {
+      "player": "Logan Costa",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "19/07/2025"
+    },
+    {
+      "player": "Roger Brugué",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Outer ligament tear",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Clément Lenglet",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Inner ligament injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Éder Militão",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle injury",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Amath Ndiaye",
+      "team": "Real Valladolid CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/366.png?lm=1720163563",
+      "injury": "Broken fibula",
+      "returnDate": "10/12/2025"
+    },
+    {
+      "player": "Pau Cabanes",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "26/08/2025"
+    },
+    {
+      "player": "Andreas Christensen",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Ligament tear",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Beñat Prados",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "13/09/2025"
+    },
+    {
+      "player": "Iker Benito",
+      "team": "CA Osasuna",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/331.png?lm=1686070937",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "29/10/2025"
+    }
+  ],
+  "2020": [
+    {
+      "player": "Ander Barrenetxea",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf problems",
+      "returnDate": "12/12/2025"
+    },
+    {
+      "player": "Diego Aznar",
+      "team": "SD Huesca",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/5358.png?lm=1726751837",
+      "injury": "Knee injury",
+      "returnDate": "05/11/2025"
+    },
+    {
+      "player": "Samuel Ntamack",
+      "team": "SD Huesca",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/5358.png?lm=1726751837",
+      "injury": "Knee injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Javi Mier",
+      "team": "SD Huesca",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/5358.png?lm=1726751837",
+      "injury": "Knee injury",
+      "returnDate": "03/01/2025"
+    },
+    {
+      "player": "Abdel Abqar",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Muscle injury",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Héctor Fort",
+      "team": "Elche CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1531.png?lm=1421955260",
+      "injury": "Shoulder injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Lucas Boyé",
+      "team": "Deportivo Alavés",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1108.png?lm=1596131395",
+      "injury": "unknown injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Santiago Mouriño",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "01/12/2025"
+    },
+    {
+      "player": "Juan Foyth",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Thomas Partey",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "05/12/2025"
+    },
+    {
+      "player": "Hugo Sotelo",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Carlos Domínguez",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Muscle fiber tear",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Borja Iglesias",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Back injury",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Mihailo Ristic",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Yangel Herrera",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf injury",
+      "returnDate": "24/10/2025"
+    },
+    {
+      "player": "Federico Valverde",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knock",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Isco",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Ankle injury",
+      "returnDate": "27/11/2025"
+    },
+    {
+      "player": "Jules Koundé",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Hamstring injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Junior Firpo",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Tanguy Nianzou",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Hamstring injury",
+      "returnDate": "14/11/2025"
+    },
+    {
+      "player": "Rubén Vargas",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Hamstring injury",
+      "returnDate": "25/11/2025"
+    },
+    {
+      "player": "César Azpilicueta",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Left hip flexor problems",
+      "returnDate": "11/12/2025"
+    },
+    {
+      "player": "Marcos André",
+      "team": "Real Valladolid CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/366.png?lm=1720163563",
+      "injury": "Muscle injury",
+      "returnDate": "29/11/2025"
+    },
+    {
+      "player": "Pablo Durán",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Shoulder injury",
+      "returnDate": "10/12/2025"
+    },
+    {
+      "player": "Goduine Koyalipou",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Calf problems",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Eray Cömert",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Injury to abdominal muscles",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Stole Dimitrievski",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Torn muscle fiber in the adductor area",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Diego Llorente",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Adductor injury",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Nico González",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Muscle injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Daniel Carvajal",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knee injury",
+      "returnDate": "27/10/2025"
+    },
+    {
+      "player": "Davinchi",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Meniscus tear",
+      "returnDate": "15/09/2025"
+    },
+    {
+      "player": "Aymeric Laporte",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Trent Alexander-Arnold",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle tear",
+      "returnDate": "04/12/2025"
+    },
+    {
+      "player": "Gavi",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Arthroscopy",
+      "returnDate": "29/08/2025"
+    },
+    {
+      "player": "Unai Elgezabal",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Tear of the lateral meniscus",
+      "returnDate": "29/11/2025"
+    },
+    {
+      "player": "Clément Lenglet",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Inner ligament injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Logan Costa",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "19/07/2025"
+    },
+    {
+      "player": "Unai Egiluz",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "30/07/2025"
+    },
+    {
+      "player": "Roger Brugué",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Outer ligament tear",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Amath Ndiaye",
+      "team": "Real Valladolid CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/366.png?lm=1720163563",
+      "injury": "Broken fibula",
+      "returnDate": "10/12/2025"
+    },
+    {
+      "player": "Éder Militão",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle injury",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Pau Cabanes",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "26/08/2025"
+    },
+    {
+      "player": "Andreas Christensen",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Ligament tear",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Beñat Prados",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "13/09/2025"
+    },
+    {
+      "player": "Iker Benito",
+      "team": "CA Osasuna",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/331.png?lm=1686070937",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "29/10/2025"
+    }
+  ],
+  "2021": [
+    {
+      "player": "Abdel Abqar",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Muscle injury",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Hugo Sotelo",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Carlos Domínguez",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Muscle fiber tear",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Borja Iglesias",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Back injury",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Mihailo Ristic",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Ander Barrenetxea",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf problems",
+      "returnDate": "12/12/2025"
+    },
+    {
+      "player": "Yangel Herrera",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf injury",
+      "returnDate": "24/10/2025"
+    },
+    {
+      "player": "Thomas Partey",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "05/12/2025"
+    },
+    {
+      "player": "Juan Foyth",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Federico Valverde",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knock",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Kylian Mbappé",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knee injury",
+      "returnDate": "31/12/2025"
+    },
+    {
+      "player": "Santiago Mouriño",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "01/12/2025"
+    },
+    {
+      "player": "Lucas Boyé",
+      "team": "Deportivo Alavés",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1108.png?lm=1596131395",
+      "injury": "unknown injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Gabriel Suazo",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Calf muscle tear",
+      "returnDate": "29/12/2025"
+    },
+    {
+      "player": "Rubén Vargas",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Hamstring injury",
+      "returnDate": "25/11/2025"
+    },
+    {
+      "player": "Alemão",
+      "team": "Rayo Vallecano",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/367.png?lm=1653488445",
+      "injury": "Inflammation of pubic bone",
+      "returnDate": "03/12/2025"
+    },
+    {
+      "player": "Héctor Fort",
+      "team": "Elche CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1531.png?lm=1421955260",
+      "injury": "Shoulder injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Junior Firpo",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Isco",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Ankle injury",
+      "returnDate": "27/11/2025"
+    },
+    {
+      "player": "Jules Koundé",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Hamstring injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Borja Mayoral",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Knee injury",
+      "returnDate": "22/12/2025"
+    },
+    {
+      "player": "Dani Olmo",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Shoulder injury",
+      "returnDate": "03/12/2025"
+    },
+    {
+      "player": "Pablo Durán",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Shoulder injury",
+      "returnDate": "10/12/2025"
+    },
+    {
+      "player": "Eray Cömert",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Injury to abdominal muscles",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Stole Dimitrievski",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Torn muscle fiber in the adductor area",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Goduine Koyalipou",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Calf problems",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Ramón Terrats",
+      "team": "RCD Espanyol Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/714.png?lm=1406966369",
+      "injury": "Inflammation of the biceps tendon in the thigh",
+      "returnDate": "07/12/2025"
+    },
+    {
+      "player": "Diego Llorente",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Adductor injury",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Nico González",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Muscle injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Daniel Carvajal",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knee injury",
+      "returnDate": "27/10/2025"
+    },
+    {
+      "player": "Aymeric Laporte",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Davinchi",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Meniscus tear",
+      "returnDate": "15/09/2025"
+    },
+    {
+      "player": "Trent Alexander-Arnold",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle tear",
+      "returnDate": "04/12/2025"
+    },
+    {
+      "player": "Gavi",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Arthroscopy",
+      "returnDate": "29/08/2025"
+    },
+    {
+      "player": "Unai Elgezabal",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Tear of the lateral meniscus",
+      "returnDate": "29/11/2025"
+    },
+    {
+      "player": "Unai Egiluz",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "30/07/2025"
+    },
+    {
+      "player": "Logan Costa",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "19/07/2025"
+    },
+    {
+      "player": "Roger Brugué",
+      "team": "Levante UD",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3368.png?lm=1408655062",
+      "injury": "Outer ligament tear",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Clément Lenglet",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Inner ligament injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Éder Militão",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle injury",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Pau Cabanes",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "26/08/2025"
+    },
+    {
+      "player": "Andreas Christensen",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Ligament tear",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Beñat Prados",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "13/09/2025"
+    },
+    {
+      "player": "Iker Benito",
+      "team": "CA Osasuna",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/331.png?lm=1686070937",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "29/10/2025"
+    }
+  ],
+  "2022": [
+    {
+      "player": "Gabriel Suazo",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Calf muscle tear",
+      "returnDate": "29/12/2025"
+    },
+    {
+      "player": "Carlos Domínguez",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Muscle fiber tear",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Borja Iglesias",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Back injury",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Mihailo Ristic",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Hugo Sotelo",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Ander Barrenetxea",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf problems",
+      "returnDate": "12/12/2025"
+    },
+    {
+      "player": "Yangel Herrera",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf injury",
+      "returnDate": "24/10/2025"
+    },
+    {
+      "player": "Thomas Partey",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "05/12/2025"
+    },
+    {
+      "player": "Federico Valverde",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knock",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Kylian Mbappé",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knee injury",
+      "returnDate": "31/12/2025"
+    },
+    {
+      "player": "Juan Foyth",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Santiago Mouriño",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "01/12/2025"
+    },
+    {
+      "player": "Rubén Vargas",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Hamstring injury",
+      "returnDate": "25/11/2025"
+    },
+    {
+      "player": "Alemão",
+      "team": "Rayo Vallecano",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/367.png?lm=1653488445",
+      "injury": "Inflammation of pubic bone",
+      "returnDate": "03/12/2025"
+    },
+    {
+      "player": "Marcos André",
+      "team": "Real Valladolid CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/366.png?lm=1720163563",
+      "injury": "Muscle injury",
+      "returnDate": "29/11/2025"
+    },
+    {
+      "player": "Héctor Fort",
+      "team": "Elche CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1531.png?lm=1421955260",
+      "injury": "Shoulder injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Ibrahima Koné",
+      "team": "UD Almería",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3302.png?lm=1736335439",
+      "injury": "Ankle injury",
+      "returnDate": "31/01/2025"
+    },
+    {
+      "player": "Junior Firpo",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Borja Mayoral",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Knee injury",
+      "returnDate": "22/12/2025"
+    },
+    {
+      "player": "Isco",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Ankle injury",
+      "returnDate": "27/11/2025"
+    },
+    {
+      "player": "Abdel Abqar",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Muscle injury",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Jules Koundé",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Hamstring injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Cristhian Stuani",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Calf injury",
+      "returnDate": "26/11/2025"
+    },
+    {
+      "player": "Juan Carlos",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Knee injury",
+      "returnDate": "01/09/2025"
+    },
+    {
+      "player": "Pablo Durán",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Shoulder injury",
+      "returnDate": "10/12/2025"
+    },
+    {
+      "player": "Dani Olmo",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Shoulder injury",
+      "returnDate": "03/12/2025"
+    },
+    {
+      "player": "Abel Ruiz",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Muscle fiber tear",
+      "returnDate": "03/12/2025"
+    },
+    {
+      "player": "Eray Cömert",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Injury to abdominal muscles",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Stole Dimitrievski",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Torn muscle fiber in the adductor area",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Ramón Terrats",
+      "team": "RCD Espanyol Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/714.png?lm=1406966369",
+      "injury": "Inflammation of the biceps tendon in the thigh",
+      "returnDate": "07/12/2025"
+    },
+    {
+      "player": "Diego Llorente",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Adductor injury",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Nico González",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Muscle injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Daniel Carvajal",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knee injury",
+      "returnDate": "27/10/2025"
+    },
+    {
+      "player": "Aymeric Laporte",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Davinchi",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Meniscus tear",
+      "returnDate": "15/09/2025"
+    },
+    {
+      "player": "Trent Alexander-Arnold",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle tear",
+      "returnDate": "04/12/2025"
+    },
+    {
+      "player": "Gavi",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Arthroscopy",
+      "returnDate": "29/08/2025"
+    },
+    {
+      "player": "Unai Egiluz",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "30/07/2025"
+    },
+    {
+      "player": "Clément Lenglet",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Inner ligament injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Logan Costa",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "19/07/2025"
+    },
+    {
+      "player": "Amath Ndiaye",
+      "team": "Real Valladolid CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/366.png?lm=1720163563",
+      "injury": "Broken fibula",
+      "returnDate": "10/12/2025"
+    },
+    {
+      "player": "Éder Militão",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle injury",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Donny van de Beek",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Achilles tendon rupture",
+      "returnDate": "24/09/2025"
+    },
+    {
+      "player": "Pau Cabanes",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "26/08/2025"
+    },
+    {
+      "player": "Andreas Christensen",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Ligament tear",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Beñat Prados",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "13/09/2025"
+    },
+    {
+      "player": "Portu",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Torn knee ligaments",
+      "returnDate": "19/11/2025"
+    },
+    {
+      "player": "Iker Benito",
+      "team": "CA Osasuna",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/331.png?lm=1686070937",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "29/10/2025"
+    }
+  ],
+  "2023": [
+    {
+      "player": "Juan Foyth",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Carlos Domínguez",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Muscle fiber tear",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Borja Iglesias",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Back injury",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Mihailo Ristic",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Ander Barrenetxea",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf problems",
+      "returnDate": "12/12/2025"
+    },
+    {
+      "player": "Yangel Herrera",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf injury",
+      "returnDate": "24/10/2025"
+    },
+    {
+      "player": "Hugo Sotelo",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Jeremía Recoba",
+      "team": "UD Las Palmas",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/472.png?lm=1407484865",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "11/10/2025"
+    },
+    {
+      "player": "Sandro Ramírez",
+      "team": "UD Las Palmas",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/472.png?lm=1407484865",
+      "injury": "Knee injury",
+      "returnDate": "17/07/2025"
+    },
+    {
+      "player": "Federico Valverde",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knock",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Thomas Partey",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "05/12/2025"
+    },
+    {
+      "player": "Tanguy Nianzou",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Hamstring injury",
+      "returnDate": "14/11/2025"
+    },
+    {
+      "player": "Rubén Vargas",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Hamstring injury",
+      "returnDate": "25/11/2025"
+    },
+    {
+      "player": "César Azpilicueta",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Left hip flexor problems",
+      "returnDate": "11/12/2025"
+    },
+    {
+      "player": "Alemão",
+      "team": "Rayo Vallecano",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/367.png?lm=1653488445",
+      "injury": "Inflammation of pubic bone",
+      "returnDate": "03/12/2025"
+    },
+    {
+      "player": "Santiago Mouriño",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "01/12/2025"
+    },
+    {
+      "player": "Lucas Boyé",
+      "team": "Deportivo Alavés",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1108.png?lm=1596131395",
+      "injury": "unknown injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Junior Firpo",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Ibrahima Koné",
+      "team": "UD Almería",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3302.png?lm=1736335439",
+      "injury": "Ankle injury",
+      "returnDate": "31/01/2025"
+    },
+    {
+      "player": "Isco",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Ankle injury",
+      "returnDate": "27/11/2025"
+    },
+    {
+      "player": "Abdel Abqar",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Muscle injury",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Jules Koundé",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Hamstring injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Cristhian Stuani",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Calf injury",
+      "returnDate": "26/11/2025"
+    },
+    {
+      "player": "Juan Carlos",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Knee injury",
+      "returnDate": "01/09/2025"
+    },
+    {
+      "player": "Pablo Durán",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Shoulder injury",
+      "returnDate": "10/12/2025"
+    },
+    {
+      "player": "Abel Ruiz",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Muscle fiber tear",
+      "returnDate": "03/12/2025"
+    },
+    {
+      "player": "Eray Cömert",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Injury to abdominal muscles",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Stole Dimitrievski",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Torn muscle fiber in the adductor area",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Diego Llorente",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Adductor injury",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Nico González",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Muscle injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Daniel Carvajal",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knee injury",
+      "returnDate": "27/10/2025"
+    },
+    {
+      "player": "Aymeric Laporte",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Jorge de Frutos",
+      "team": "Rayo Vallecano",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/367.png?lm=1653488445",
+      "injury": "Knee injury",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Davinchi",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Meniscus tear",
+      "returnDate": "15/09/2025"
+    },
+    {
+      "player": "Trent Alexander-Arnold",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle tear",
+      "returnDate": "04/12/2025"
+    },
+    {
+      "player": "Gavi",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Arthroscopy",
+      "returnDate": "29/08/2025"
+    },
+    {
+      "player": "Unai Egiluz",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "30/07/2025"
+    },
+    {
+      "player": "Logan Costa",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "19/07/2025"
+    },
+    {
+      "player": "Clément Lenglet",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Inner ligament injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Éder Militão",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle injury",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Donny van de Beek",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Achilles tendon rupture",
+      "returnDate": "24/09/2025"
+    },
+    {
+      "player": "Pau Cabanes",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "26/08/2025"
+    },
+    {
+      "player": "Andreas Christensen",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Ligament tear",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Beñat Prados",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "13/09/2025"
+    },
+    {
+      "player": "Portu",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Torn knee ligaments",
+      "returnDate": "19/11/2025"
+    },
+    {
+      "player": "Iker Benito",
+      "team": "CA Osasuna",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/331.png?lm=1686070937",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "29/10/2025"
+    }
+  ],
+  "2024": [
+    {
+      "player": "Tanguy Nianzou",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Hamstring injury",
+      "returnDate": "14/11/2025"
+    },
+    {
+      "player": "Carlos Domínguez",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Muscle fiber tear",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Borja Iglesias",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Back injury",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Mihailo Ristic",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Ander Barrenetxea",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf problems",
+      "returnDate": "12/12/2025"
+    },
+    {
+      "player": "Yangel Herrera",
+      "team": "Real Sociedad",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/681.png?lm=1614795530",
+      "injury": "Calf injury",
+      "returnDate": "24/10/2025"
+    },
+    {
+      "player": "Hugo Sotelo",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "strain",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Jeremía Recoba",
+      "team": "UD Las Palmas",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/472.png?lm=1407484865",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "11/10/2025"
+    },
+    {
+      "player": "Sandro Ramírez",
+      "team": "UD Las Palmas",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/472.png?lm=1407484865",
+      "injury": "Knee injury",
+      "returnDate": "17/07/2025"
+    },
+    {
+      "player": "Federico Valverde",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knock",
+      "returnDate": "19/12/2025"
+    },
+    {
+      "player": "Thomas Partey",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "05/12/2025"
+    },
+    {
+      "player": "Juan Foyth",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Rubén Vargas",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Hamstring injury",
+      "returnDate": "25/11/2025"
+    },
+    {
+      "player": "Alemão",
+      "team": "Rayo Vallecano",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/367.png?lm=1653488445",
+      "injury": "Inflammation of pubic bone",
+      "returnDate": "03/12/2025"
+    },
+    {
+      "player": "César Azpilicueta",
+      "team": "Sevilla FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/368.png?lm=1730896593",
+      "injury": "Left hip flexor problems",
+      "returnDate": "11/12/2025"
+    },
+    {
+      "player": "Santiago Mouriño",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Muscle injury",
+      "returnDate": "01/12/2025"
+    },
+    {
+      "player": "Marcos André",
+      "team": "Real Valladolid CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/366.png?lm=1720163563",
+      "injury": "Muscle injury",
+      "returnDate": "29/11/2025"
+    },
+    {
+      "player": "Lucas Boyé",
+      "team": "Deportivo Alavés",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1108.png?lm=1596131395",
+      "injury": "unknown injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Juan Carlos",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Knee injury",
+      "returnDate": "01/09/2025"
+    },
+    {
+      "player": "Abdel Abqar",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Muscle injury",
+      "returnDate": "18/12/2025"
+    },
+    {
+      "player": "Junior Firpo",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Jules Koundé",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Hamstring injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Cristhian Stuani",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Calf injury",
+      "returnDate": "26/11/2025"
+    },
+    {
+      "player": "Isco",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Ankle injury",
+      "returnDate": "27/11/2025"
+    },
+    {
+      "player": "Pablo Durán",
+      "team": "Celta de Vigo",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/940.png?lm=1406966406",
+      "injury": "Shoulder injury",
+      "returnDate": "10/12/2025"
+    },
+    {
+      "player": "Abel Ruiz",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Muscle fiber tear",
+      "returnDate": "03/12/2025"
+    },
+    {
+      "player": "Stole Dimitrievski",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Torn muscle fiber in the adductor area",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Eray Cömert",
+      "team": "Valencia CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1049.png?lm=1406966320",
+      "injury": "Injury to abdominal muscles",
+      "returnDate": "13/12/2025"
+    },
+    {
+      "player": "Ramón Terrats",
+      "team": "RCD Espanyol Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/714.png?lm=1406966369",
+      "injury": "Inflammation of the biceps tendon in the thigh",
+      "returnDate": "07/12/2025"
+    },
+    {
+      "player": "Diego Llorente",
+      "team": "Real Betis Balompié",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/150.png?lm=1663358526",
+      "injury": "Adductor injury",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Nico González",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Muscle injury",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Daniel Carvajal",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Knee injury",
+      "returnDate": "27/10/2025"
+    },
+    {
+      "player": "Aymeric Laporte",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Hamstring injury",
+      "returnDate": "06/12/2025"
+    },
+    {
+      "player": "Jorge de Frutos",
+      "team": "Rayo Vallecano",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/367.png?lm=1653488445",
+      "injury": "Knee injury",
+      "returnDate": "15/12/2025"
+    },
+    {
+      "player": "Davinchi",
+      "team": "Getafe CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/3709.png?lm=1408655116",
+      "injury": "Meniscus tear",
+      "returnDate": "15/09/2025"
+    },
+    {
+      "player": "Trent Alexander-Arnold",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle tear",
+      "returnDate": "04/12/2025"
+    },
+    {
+      "player": "Rubén Pulido",
+      "team": "CD Leganés",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1244.png?lm=1764600019",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "05/07/2025"
+    },
+    {
+      "player": "Gavi",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Arthroscopy",
+      "returnDate": "29/08/2025"
+    },
+    {
+      "player": "Clément Lenglet",
+      "team": "Atlético de Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/13.png?lm=1719915566",
+      "injury": "Inner ligament injury",
+      "returnDate": "17/12/2025"
+    },
+    {
+      "player": "Logan Costa",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "19/07/2025"
+    },
+    {
+      "player": "Unai Egiluz",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "30/07/2025"
+    },
+    {
+      "player": "Amath Ndiaye",
+      "team": "Real Valladolid CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/366.png?lm=1720163563",
+      "injury": "Broken fibula",
+      "returnDate": "10/12/2025"
+    },
+    {
+      "player": "Donny van de Beek",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Achilles tendon rupture",
+      "returnDate": "24/09/2025"
+    },
+    {
+      "player": "Éder Militão",
+      "team": "Real Madrid",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/418.png?lm=1729684474",
+      "injury": "Muscle injury",
+      "returnDate": "08/12/2025"
+    },
+    {
+      "player": "Pau Cabanes",
+      "team": "Villarreal CF",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/1050.png?lm=1408655310",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "26/08/2025"
+    },
+    {
+      "player": "Andreas Christensen",
+      "team": "FC Barcelona",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/131.png?lm=1406739548",
+      "injury": "Ligament tear",
+      "returnDate": "21/12/2025"
+    },
+    {
+      "player": "Beñat Prados",
+      "team": "Athletic Bilbao",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/621.png?lm=1695069038",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "13/09/2025"
+    },
+    {
+      "player": "Portu",
+      "team": "Girona FC",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/12321.png?lm=1730455718",
+      "injury": "Torn knee ligaments",
+      "returnDate": "19/11/2025"
+    },
+    {
+      "player": "Iker Benito",
+      "team": "CA Osasuna",
+      "logo": "https://tmssl.akamaized.net//images/wappen/tiny/331.png?lm=1686070937",
+      "injury": "Cruciate ligament tear",
+      "returnDate": "29/10/2025"
+    }
+  ]
+}

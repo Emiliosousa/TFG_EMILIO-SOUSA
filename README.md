@@ -60,6 +60,6 @@ Lo curioso es que 4 de las 5 buenas apuestan SOLO al empate en ese rango. El nic
 ---
 
 ## Sobre la IA
-Profe, te aviso porque me parece justo: he usado IA para apoyarme en la parte de programar, sobre todo para refactorizar y limpiar funciones que iba escribiendo a trozos. Pero entendiendo lo que hacía y corrigiéndola cuando proponía cosas raras.
+Lo que te decía en los correos: he usado IA para apoyarme en la parte de programar, sobre todo para refactorizar y limpiar funciones que iba escribiendo a trozos. Pero entendiendo lo que hacía y corrigiéndola cuando proponía cosas raras. No ha sido mas que una herramienta.
 
 Cualquier duda me dices, un saludo y muchas gracias!
